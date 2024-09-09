@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a highly motivated and passionate software engineer with over 13 years of full stack web development experience. My recent technology focus has been React, TypeScript, NodeJS, REST and SQL. I also have extensive experience with Jest, React Testing Library and ESLint from a testing and code standards perspective. I have also been recently expanding my knowledge of keyboard and color accessibility and how it can improve the experience for many different kinds of users. 
+I am a highly motivated and passionate software engineer with over 14 years of full stack web development experience. My recent technology focus has been React, TypeScript, NodeJS, REST and SQL. I also have extensive experience with Jest, React Testing Library and ESLint from a testing and code standards perspective. I have also been recently expanding my knowledge of keyboard and color accessibility and how it can improve the experience for many different kinds of users. 
 
 I have a passion for not only building highly performant and reliable web applications, but also for their maintenance and testability. I strive for significant unit test code coverage as well as ensuring that code standards are followed to increase readability and maintainability. In addition to my current knowledge base I greatly enjoy seeking out new technologies and staying up to date with industry trends providing me the ability to apply the best tools and patterns to the challenges I am conquering.
 
