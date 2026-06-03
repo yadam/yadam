@@ -1,22 +1,35 @@
 ### Hello 👋
 
-I am a highly motivated and passionate software engineer with over 15 years of full stack web development experience. My recent technology focus has been React, TypeScript, NodeJS, REST and SQL. I also have extensive experience with Jest, React Testing Library and ESLint from a testing and code standards perspective. I have been recently expanding my knowledge of keyboard and color accessibility and how it can improve the experience for many different kinds of users. 
+# Adam Bantly
 
-I have a passion for not only building highly performant and reliable web applications, but also for their maintenance and testability. I strive for significant unit test code coverage as well as ensuring that code standards are followed to increase readability and maintainability. In addition to my current knowledge base I greatly enjoy seeking out new technologies and staying up to date with industry trends providing me the ability to apply the best tools and patterns to the challenges I am conquering.
+Senior software engineer focused on React, TypeScript, frontend architecture, component systems, full-stack SaaS development, testing, accessibility, and developer experience.
 
-### Work Examples
-* [Noughts and Crosses](https://github.com/yadam/noughts-and-crosses)
-  * This project was a take home challenge for a previous interview process. The requirements were to build a tic-tac-toe game with a computer opponent. The computer opponent should have multiple difficulty levels and allow the player to move first or second.
-* [Bakery Optimizer](https://github.com/yadam/bakery-optimizer)
-  * This project was a take home challenge for a previous interview process. The requirements were to build an application to help a bakery optimize their oven usage. The specific optimization rules are outlined in the [README](https://github.com/yadam/bakery-optimizer/blob/main/README.md).
-* [String Calculator](https://github.com/yadam/calculator)
-  * This project was a take home challenge for a previous interview process. The requirements were to build a calculator that took a string input. There were several variants of requirements and each commit to the project represents one requirement variant.
-* [Pivot Table](https://github.com/yadam/pivot)
-  * This project was a take home challenge for a previous interview process. The requirements were to build a simple pivot table component to analyze a provided data set.
+I have 15+ years of experience building and maintaining web applications, with recent work centered on frontend-heavy product development, platform capabilities, component libraries, codebase modernization, and engineering quality. I care about building software that is not only useful for users, but also maintainable, testable, and scalable for engineering teams.
 
-### Social
-[LinkedIn](https://www.linkedin.com/in/adambantly/)
+My recent professional work has included Conditional Settings and DevLink React export capabilities at Webflow, Help Scout workflow integration at Homee, frontend development for bank-sponsorship-related onboarding at Moov, and frontend modernization and team leadership at Mapistry.
 
+## Focus Areas
+
+* React, TypeScript, JavaScript, and Node.js
+* Frontend architecture and component systems
+* Testing strategy with Jest, React Testing Library, and Cypress
+* Accessibility, usability, and maintainable UI patterns
+* Developer experience, code quality, linting, and CI/CD
+* Legacy frontend modernization and incremental migration
+
+## Selected Work Examples
+
+These repositories are mostly coding challenges and personal exercises, but I keep them public as examples of implementation style, testing approach, data modeling, and problem-solving.
+
+* **[Pivot Table](https://github.com/yadam/pivot)** — React data transformation and tabular UI example demonstrating parsing, aggregation, component composition, and test coverage.
+* **[Event API](https://github.com/yadam/event-api)** — TypeScript/Express API example demonstrating endpoint design, validation, data modeling, and unit testing.
+* **[String Calculator](https://github.com/yadam/calculator)** — React string calculator built incrementally with one commit per requirement stage and 100% unit test coverage for custom code.
+* **[Bakery Optimizer](https://github.com/yadam/bakery-optimizer)** — Constraint/optimization exercise focused on translating business rules into executable logic.
+* **[Noughts and Crosses](https://github.com/yadam/noughts-and-crosses)** — Single-player tic-tac-toe implementation with multiple computer difficulty levels.
+
+## Links
+
+* LinkedIn: [https://www.linkedin.com/in/adambantly/](https://www.linkedin.com/in/adambantly/)
 
 <!--
 **yadam/yadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
