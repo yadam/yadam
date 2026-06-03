@@ -1,23 +1,21 @@
-### Hello 👋
+## Hi, I’m Adam 👋
 
-# Adam Bantly
+I’m a senior software engineer with 15+ years of experience building web applications, with a recent focus on frontend-heavy SaaS products, React, TypeScript, component systems, and developer experience.
 
-Senior software engineer focused on React, TypeScript, frontend architecture, component systems, full-stack SaaS development, testing, accessibility, and developer experience.
+I enjoy working at the intersection of product engineering and frontend architecture: turning ambiguous requirements into usable, maintainable software, building patterns that other engineers can rely on, and improving the quality of the codebases I work in.
 
-I have 15+ years of experience building and maintaining web applications, with recent work centered on frontend-heavy product development, platform capabilities, component libraries, codebase modernization, and engineering quality. I care about building software that is not only useful for users, but also maintainable, testable, and scalable for engineering teams.
+Most of my recent professional work has been in private company repositories, so the projects here are a mix of coding challenges, experiments, and personal exercises. I keep them public as examples of how I approach implementation, testing, tradeoffs, and documentation.
 
-My recent professional work has included Conditional Settings and DevLink React export capabilities at Webflow, Help Scout workflow integration at Homee, frontend development for bank-sponsorship-related onboarding at Moov, and frontend modernization and team leadership at Mapistry.
+### What I like working on
 
-## Focus Areas
+- React, TypeScript, JavaScript, and Node.js
+- Frontend architecture and component systems
+- Testing with Jest, React Testing Library, and Cypress
+- Accessibility and maintainable UI patterns
+- Developer experience, code quality, linting, and CI/CD
+- Legacy frontend modernization and incremental migration
 
-* React, TypeScript, JavaScript, and Node.js
-* Frontend architecture and component systems
-* Testing strategy with Jest, React Testing Library, and Cypress
-* Accessibility, usability, and maintainable UI patterns
-* Developer experience, code quality, linting, and CI/CD
-* Legacy frontend modernization and incremental migration
-
-## Selected Work Examples
+### Selected Projects
 
 These repositories are mostly coding challenges and personal exercises, but I keep them public as examples of implementation style, testing approach, data modeling, and problem-solving.
 
@@ -27,9 +25,10 @@ These repositories are mostly coding challenges and personal exercises, but I ke
 * **[Bakery Optimizer](https://github.com/yadam/bakery-optimizer)** — Constraint/optimization exercise focused on translating business rules into executable logic.
 * **[Noughts and Crosses](https://github.com/yadam/noughts-and-crosses)** — Single-player tic-tac-toe implementation with multiple computer difficulty levels.
 
-## Links
+### Elsewhere
 
 * LinkedIn: [https://www.linkedin.com/in/adambantly/](https://www.linkedin.com/in/adambantly/)
+
 
 <!--
 **yadam/yadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
